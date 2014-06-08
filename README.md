@@ -12,7 +12,7 @@ Add custom notification notes and reminders to your notification area with beaut
 The Repository
 -------------
 
-The main purpose of this repository is to allow engagement with the user base of Notification Agenda and at the same time share everything related to the public side of the application's development.
+The main purpose of this repository is to allow engagement with the user base of Notification Agenda and at the same time share everything from the public side of the application's development.
 
 Did you find a new bug? Would you like to see some new feature implemented? Is a particular feature already planned? Do you want to discuss a new idea? Or maybe you simply want to give some feedback or start a general discussion. Either way, the [issue tracker](http://github.com/rfgamaral/Notification-Agenda/issues) is the right place for all that.
 
